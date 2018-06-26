@@ -1,0 +1,33 @@
+body {
+    background-image: url(../images/stacked_circles.png);
+    background-repeat: repeat-xy;
+    
+}
+
+h1,h3,h4,h5 {
+    font-family: 'Shrikhand', cursive;
+
+}
+
+#startDiv{
+    border-radius: 50%;
+    
+}
+
+.jumbotron{
+    
+}
+
+#widget{
+    display:flex;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    flex-flow: nowrap;
+    flex-direction: column;
+    
+}
+
+
